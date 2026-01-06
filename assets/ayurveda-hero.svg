@@ -1,0 +1,44 @@
+<svg width="640" height="640" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ayurveda wellness illustration</title>
+  <desc id="desc">Abstract depiction of Ayurvedic herbs, lamp, and mortar with soothing green palette</desc>
+  <defs>
+    <linearGradient id="leaf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6edb9c" />
+      <stop offset="100%" stop-color="#21a759" />
+    </linearGradient>
+    <linearGradient id="bg" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#e5f6ec" />
+      <stop offset="100%" stop-color="#cdebd9" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="640" rx="140" fill="url(#bg)" />
+  <circle cx="320" cy="320" r="220" fill="#f5fff9" />
+  <g fill="none" stroke="#a3d9ba" stroke-width="4" stroke-linecap="round">
+    <circle cx="320" cy="320" r="180" stroke-dasharray="16 18" />
+    <circle cx="320" cy="320" r="140" stroke-dasharray="10 24" />
+  </g>
+  <g transform="translate(160 200)">
+    <ellipse cx="160" cy="250" rx="150" ry="34" fill="#d8e5d9" />
+    <path d="M60 180h200v32c0 44-44 80-100 80s-100-36-100-80v-32z" fill="#fff" stroke="#1e8b4d" stroke-width="6" />
+    <path d="M60 180c30-30 70-60 100-66s70 6 100 38" fill="#efe1c5" stroke="#c9964a" stroke-width="6" />
+    <path d="M80 128c56-56 120-64 176-12" fill="none" stroke="#1e8b4d" stroke-width="8" stroke-linecap="round" />
+    <path d="M210 70c30 18 48 54 40 94" fill="none" stroke="#1fb656" stroke-width="8" stroke-linecap="round" />
+    <path d="M138 64c-20-32-8-64 12-64 14 0 23 14 18 32 20-16 38 0 38 14 0 18-36 30-68 18z" fill="#f9d27d" stroke="#d8a244" stroke-width="6" />
+    <path d="M130 180c-12-36 12-70 42-82" fill="none" stroke="#1e8b4d" stroke-width="8" stroke-linecap="round" />
+    <g fill="url(#leaf)" stroke="#1e8b4d" stroke-width="5" stroke-linecap="round">
+      <path d="M38 178c-22-34-20-78 18-90 22 22 24 64-18 90z" />
+      <path d="M262 178c22-34 20-78-18-90-22 22-24 64 18 90z" />
+      <path d="M150 50c-26-40-24-86 6-96 40 16 44 68-6 96z" />
+    </g>
+    <g fill="#fff" stroke="#1e8b4d" stroke-width="6" stroke-linecap="round">
+      <path d="M120 220h80l-10 36c-6 20-54 20-60 0z" />
+      <path d="M70 220h20" />
+      <path d="M250 220h20" />
+    </g>
+    <g transform="translate(140 10)" fill="#f8b53c" stroke="#d48a1c" stroke-width="4">
+      <ellipse cx="40" cy="20" rx="34" ry="12" />
+      <path d="M10 20h60v28c0 8-12 16-30 16s-30-8-30-16z" />
+      <path d="M40 0l10 20h-20z" fill="#ffd263" />
+    </g>
+  </g>
+</svg>
